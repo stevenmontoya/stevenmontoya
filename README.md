@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻 I’m currently working on **GloVal**
 
-- 📚 I’m currently learning **Machine Learning**
+- 📚 I’m currently learning **Machine Learning on @CORE Code School**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
