@@ -3,8 +3,6 @@
 
 - 👨🏻‍💻 I’m currently working on **GloVal**
 
-- 📚 I’m currently learning **Machine Learning on @CORE Code School**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/steven-montoya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steven-montoya" height="30" width="40" /></a>
