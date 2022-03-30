@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Steven Montoya</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 👨🏻‍💻 I’m currently working on **GloVal**
+- 👨🏻‍💻 I’m currently working on **tailor-hub**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
